@@ -1,4 +1,11 @@
-## Hi there 👋
+## 👋 Hey, I'm Akash Ravandhu
+
+<img width="6959" height="1739" alt="Akash Ravandhu Banner" src="https://github.com/user-attachments/assets/0dd7e522-4c32-4146-af65-9088eb32d000" />
+
+I'm a software/AI/ML engineer currently studying computer science at Purdue University. I love exploring new technologies, reading research papers, and building cool projects.
+
+[![Website](https://img.shields.io/badge/Personal_Website-Visit-cyan)](https://www.akashravandhu.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-Visit-cyan)](https://www.linkedin.com/in/akash-ravandhu/)
 
 <!--
 **GalacticQuasar/GalacticQuasar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
