@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Akash Ravandhu
 
-<img width="6959" alt="Akash Ravandhu Banner" src="https://github.com/user-attachments/assets/0dd7e522-4c32-4146-af65-9088eb32d000" />
+<img width="6959" height="1739" alt="Akash Ravandhu LinkedIn Banner" src="https://github.com/user-attachments/assets/10992163-a9a3-4141-b480-660f4bee5d3e" />
 
 I'm a software/AI/ML engineer currently studying computer science at Purdue University. I love exploring new technologies, reading research papers, and building cool projects.
 
