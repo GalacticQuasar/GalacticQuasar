@@ -2,10 +2,10 @@
 
 <img width="6959" height="1739" alt="Akash Ravandhu LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/e485c369-c8ba-4e00-a41e-bbea2dadc147" />
 
-I'm a software/AI/ML engineer currently studying computer science at Purdue University. I love exploring new technologies, reading research papers, and building cool projects.
+### I'm a software/AI/ML engineer currently studying computer science at Purdue University. I love exploring new technologies, reading research papers, and building cool projects.
 
-[![Website](https://img.shields.io/badge/Personal_Website-Visit-cyan)](https://www.akashravandhu.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-Visit-cyan)](https://www.linkedin.com/in/akash-ravandhu/)
+[![Website](https://img.shields.io/badge/akashravandhu.com-081a28?style=for-the-badge)](https://www.akashravandhu.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/akash-ravandhu)
 
 <!--
 **GalacticQuasar/GalacticQuasar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
