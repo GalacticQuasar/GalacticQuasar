@@ -27,7 +27,7 @@ Small things I built and use pretty much every day.
 | [**claude-study-skills**](https://github.com/GalacticQuasar/claude-study-skills) | Claude Code plugin with three skills: ingest a course's slides and transcripts, generate printable exam reference sheets with parallel subagents, and build study guides that teach a topic. |
 | [**dining-bot**](https://github.com/GalacticQuasar/dining-bot) | CLI, TUI and agent skill for Purdue's dining menus. `npx skills add GalacticQuasar/dining-bot`, then ask "What are some good vegetarian options for dinner tonight?" |
 | [**prompt-builder**](https://github.com/GalacticQuasar/prompt-builder) | PWA for local, browser-based prompt engineering. [Live](https://prompt-builder-v3.vercel.app/) |
-| [**prose-diff**](https://github.com/GalacticQuasar/prose-diff) | Merge two versions of your writing one change at a time, with word-level inline diffs, accept/reject per change and vim-style shortcuts. Runs fully in the browser. |
+| [**prose-diff**](https://github.com/GalacticQuasar/prose-diff) | Merge two versions of your writing one change at a time, with word-level inline diffs, accept/reject per change and vim-style shortcuts. Runs fully in the browser. [Live](https://prose-diff.vercel.app/) |
 
 ### Featured projects
 
