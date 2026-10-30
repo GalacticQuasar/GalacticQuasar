@@ -20,7 +20,7 @@
 
 Small things I built and use pretty much every day.
 
-| Tool | What it does |
+| Tool&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | What it does |
 |---|---|
 | [**mdview**](https://github.com/GalacticQuasar/mdview) | Terminal-launched Markdown viewer with vim keybindings, live reload, KaTeX math and GitHub-flavored callouts. Opens a chromeless browser window (no Electron), and works natively from WSL. |
 | [**ed-discussion-agent**](https://github.com/GalacticQuasar/ed-discussion-agent) | Agent tooling for Ed Discussion. A read-only MCP server lets Claude Code, Codex, Cursor, and other MCP clients search and read your courses, and an experimental listener pushes notifications to your phone (like "tell me if any CS 180 deadline changes"), judged by a small local model. On [PyPI](https://pypi.org/project/ed-discussion-mcp/): run it with `uvx ed-discussion-mcp`. |
@@ -32,7 +32,7 @@ Small things I built and use pretty much every day.
 
 ### Featured projects
 
-| Project | What it is | Built with |
+| Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | What it is | Built with |
 |---|---|---|
 | [**Room Reveal**](https://github.com/GalacticQuasar/room-reveal) | Crowdsourced interactive 3D models of Purdue dorm rooms, so students (especially those with accessibility needs) can see a space before moving in. [Live](https://room-reveal-purdue.vercel.app) · [Devpost](https://devpost.com/software/room-reveal) | Gaussian Splatting, Nerfstudio, Three.js, FastAPI, Modal |
 | [**DeepQuery.org**](https://deepquery.org/) | Open-source arena-based RAG benchmark ranking pipelines by accuracy, speed and cost with LLM-as-a-Judge ELO. Designed and developed the core LLM-as-a-Judge ELO evaluation pipeline, built RAG pipelines with cross-encoder reranking, and [co-authored the paper](https://deepquery.org/blogs/deepquery-arena-evaluation). | LangChain, RAG, LLM-as-a-Judge |
