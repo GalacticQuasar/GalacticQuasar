@@ -23,7 +23,7 @@ Small things I built and use pretty much every day.
 | Tool | What it does |
 |---|---|
 | [**mdview**](https://github.com/GalacticQuasar/mdview) | Terminal-launched Markdown viewer with vim keybindings, live reload, KaTeX math and GitHub-flavored callouts. Opens a chromeless browser window (no Electron), and works natively from WSL. |
-| [**ed-discussion-mcp**](https://github.com/GalacticQuasar/ed-discussion-agent) | Read-only MCP server that lets Claude Code, Cursor, Codex and friends search and read your Ed Discussion courses. On [PyPI](https://pypi.org/project/ed-discussion-mcp/): run it with `uvx ed-discussion-mcp`. |
+| [**ed-discussion-agent**](https://github.com/GalacticQuasar/ed-discussion-agent) | Agent tooling for Ed Discussion. A read-only MCP server lets Claude Code, Codex, Cursor, and other MCP clients search and read your courses, and an experimental listener pushes notifications to your phone (like "tell me if any CS 180 deadline changes"), judged by a small local model. On [PyPI](https://pypi.org/project/ed-discussion-mcp/): run it with `uvx ed-discussion-mcp`. |
 | [**claude-study-skills**](https://github.com/GalacticQuasar/claude-study-skills) | Claude Code plugin with three skills: ingest a course's slides and transcripts, generate printable exam reference sheets with parallel subagents, and build study guides that teach a topic. |
 | [**dining-bot**](https://github.com/GalacticQuasar/dining-bot) | CLI, TUI and agent skill for Purdue's dining menus. `npx skills add GalacticQuasar/dining-bot`, then ask "What are some good vegetarian options for dinner tonight?" |
 | [**prompt-builder**](https://github.com/GalacticQuasar/prompt-builder) | PWA for local, browser-based prompt engineering. [Live](https://prompt-builder-v3.vercel.app/) |
