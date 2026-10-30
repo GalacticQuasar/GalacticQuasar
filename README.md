@@ -28,6 +28,7 @@ Small things I built and use pretty much every day.
 | [**dining-bot**](https://github.com/GalacticQuasar/dining-bot) | CLI, TUI and agent skill for Purdue's dining menus. `npx skills add GalacticQuasar/dining-bot`, then ask "What are some good vegetarian options for dinner tonight?" |
 | [**prompt-builder**](https://github.com/GalacticQuasar/prompt-builder) | PWA for local, browser-based prompt engineering. [Live](https://prompt-builder-v3.vercel.app/) |
 | [**prose-diff**](https://github.com/GalacticQuasar/prose-diff) | Merge two versions of your writing one change at a time, with word-level inline diffs, accept/reject per change and vim-style shortcuts. Runs fully in the browser. [Live](https://prose-diff.vercel.app/) |
+| [**task-graph**](https://github.com/GalacticQuasar/task-graph) | To-do list modeled as a forest of task sequences that surfaces only the actionable frontier: the tasks you can do right now. Graph view for the whole forest, plus quick capture from your phone. |
 
 ### Featured projects
 
@@ -42,7 +43,9 @@ Small things I built and use pretty much every day.
 <details>
 <summary><b>More experiments</b></summary>
 
-- [**system-one-testing**](https://github.com/GalacticQuasar/system-one-testing): a local system-one model playing a dino runner, a rule-changing arcade game and a car game
+- [**tombstone-agent**](https://github.com/GalacticQuasar/tombstone-agent): a controlled study of how agents can forget their own tool results, compared against truncation and auto-compaction ([results so far](https://github.com/GalacticQuasar/tombstone-agent/blob/main/PLAN.md))
+- [**ai-research-assistant**](https://github.com/GalacticQuasar/ai-research-assistant): search arXiv, keep a local paper library, get structured summaries and chat with each paper
+- [**system-one-testing**](https://github.com/GalacticQuasar/system-one-testing): experiments with a tiny local 0.8B model via Ollama: support-ticket triage, a dino runner, a rule-changing arcade game and a car game
 - [**face-clustering**](https://github.com/GalacticQuasar/face-clustering): cluster faces in a photo collection by person using DeepFace/FaceNet embeddings and DBSCAN
 - [**ed-graph**](https://github.com/GalacticQuasar/ed-graph): build and visualize a graph of how Ed Discussion threads reference each other
 - [**FacialRecognition**](https://github.com/GalacticQuasar/FacialRecognition): face detection and recognition pipelines for images and live video
