@@ -43,7 +43,7 @@ Small things I built and use pretty much every day.
 <details>
 <summary><b>More experiments</b></summary>
 
-- [**tombstone-agent**](https://github.com/GalacticQuasar/tombstone-agent): a controlled study of how agents can forget their own tool results, compared against truncation and auto-compaction ([results so far](https://github.com/GalacticQuasar/tombstone-agent/blob/main/PLAN.md))
+- [**tombstone-agent**](https://github.com/GalacticQuasar/tombstone-agent): a controlled study of how agents can forget their own tool results, compared against truncation and auto-compaction
 - [**ai-research-assistant**](https://github.com/GalacticQuasar/ai-research-assistant): search arXiv, keep a local paper library, get structured summaries and chat with each paper
 - [**system-one-testing**](https://github.com/GalacticQuasar/system-one-testing): experiments with a tiny local 0.8B model via Ollama: support-ticket triage, a dino runner, a rule-changing arcade game and a car game
 - [**face-clustering**](https://github.com/GalacticQuasar/face-clustering): cluster faces in a photo collection by person using DeepFace/FaceNet embeddings and DBSCAN
