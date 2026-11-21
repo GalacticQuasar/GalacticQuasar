@@ -12,7 +12,7 @@
 
 - 💼 Previously: SDE Intern at **AWS**, AI SWE Intern at **Nokia**, and AI Research Engineer at **ML@Purdue x Captain (YC W26)**
 - 🏆 Winner of the **2026 Claude Hackathon @ Purdue** with [Room Reveal](https://github.com/GalacticQuasar/room-reveal)
-- 🔭 Currently building [Triaxis](https://triaxis-three.vercel.app/), a community-powered map of competitive games
+- 🔭 Currently building [Tombstone Agent](https://github.com/GalacticQuasar/tombstone-agent), an LLM agent that prunes its own context
 
 ---
 
@@ -23,10 +23,10 @@ Small things I built and use pretty much every day.
 | Tool&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | What it does |
 |---|---|
 | [**mdview**](https://github.com/GalacticQuasar/mdview) | Terminal-launched Markdown viewer with vim keybindings, live reload, KaTeX math and GitHub-flavored callouts. Opens a chromeless browser window (no Electron), and works natively from WSL. |
-| [**ed-discussion-agent**](https://github.com/GalacticQuasar/ed-discussion-agent) | Agent tooling for Ed Discussion. A read-only MCP server lets Claude Code, Codex, Cursor, and other MCP clients search and read your courses, and an experimental listener pushes notifications to your phone (like "tell me if any CS 180 deadline changes"), judged by a local System One decision model. On [PyPI](https://pypi.org/project/ed-discussion-mcp/): run it with `uvx ed-discussion-mcp`. |
+| [**ed-discussion-agent**](https://github.com/GalacticQuasar/ed-discussion-agent) | Agent tooling for Ed Discussion. A read-only MCP server lets Claude Code, Codex, Cursor, and other MCP clients search and read your courses, and an experimental listener pushes notifications to your phone (like "tell me if any CS 180 deadline changes"), judged by a local System One decision model. On [PyPI](https://pypi.org/project/ed-discussion-mcp/): run it with `uvx ed-discussion-mcp`, or install it in one click as a Claude Desktop extension. |
 | [**claude-study-skills**](https://github.com/GalacticQuasar/claude-study-skills) | Claude Code plugin with three skills: ingest a course's slides and transcripts, generate printable exam reference sheets with parallel subagents, and build study guides that teach a topic. |
 | [**dining-bot**](https://github.com/GalacticQuasar/dining-bot) | CLI, TUI and agent skill for Purdue's dining menus. `npx skills add GalacticQuasar/dining-bot`, then ask "What are some good vegetarian options for dinner tonight?" |
-| [**prose-diff**](https://github.com/GalacticQuasar/prose-diff) | Merge two versions of your writing one change at a time, with word-level inline diffs, accept/reject per change and vim-style shortcuts. Paste two versions into the web app, which runs fully in the browser, or run `npx prose-diff draft.md`, let an agent like Claude Code edit the file, then review its edits and write the merged result back. [Live](https://prose-diff.vercel.app/) · [npm](https://www.npmjs.com/package/prose-diff) |
+| [**prose-diff**](https://github.com/GalacticQuasar/prose-diff) | Merge two versions of your writing one change at a time, with word-level inline diffs, accept/reject per change and vim-style shortcuts. Paste two versions into the web app, which runs fully in the browser, or run `npx prose-diff draft.md`, let an agent like Claude Code edit the file, then review its edits and write the merged result back. `npx prose-diff old.md new.md` compares two files. [Live](https://prose-diff.vercel.app/) · [npm](https://www.npmjs.com/package/prose-diff) |
 | [**prompt-builder**](https://github.com/GalacticQuasar/prompt-builder) | PWA for local, browser-based prompt engineering. [Live](https://prompt-builder-v3.vercel.app/) |
 | [**task-graph**](https://github.com/GalacticQuasar/task-graph) | To-do list modeled as a forest of task sequences that surfaces only the actionable frontier: the tasks you can do right now. Graph view for the whole forest, plus quick capture from your phone. |
 
@@ -43,7 +43,7 @@ Small things I built and use pretty much every day.
 <details>
 <summary><b>More experiments</b></summary>
 
-- [**tombstone-agent**](https://github.com/GalacticQuasar/tombstone-agent): a controlled study of how agents can forget their own tool results, compared against truncation and auto-compaction
+- [**tombstone-agent**](https://github.com/GalacticQuasar/tombstone-agent): a controlled benchmark of an agent that prunes its own tool results behind summary "tombstones", measuring accuracy and cost against keeping everything, truncation and auto-compaction
 - [**ai-research-assistant**](https://github.com/GalacticQuasar/ai-research-assistant): search arXiv, keep a local paper library, get structured summaries and chat with each paper
 - [**system-one-testing**](https://github.com/GalacticQuasar/system-one-testing): experiments with a tiny local 0.8B model via Ollama: support-ticket triage, a dino runner, a rule-changing arcade game and a car game
 - [**face-clustering**](https://github.com/GalacticQuasar/face-clustering): cluster faces in a photo collection by person using DeepFace/FaceNet embeddings and DBSCAN
