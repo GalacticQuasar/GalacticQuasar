@@ -22,7 +22,7 @@ Small things I built and use pretty much every day.
 
 | Tool&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | What it does |
 |---|---|
-| [**mdview**](https://github.com/GalacticQuasar/mdview) | Terminal-launched Markdown viewer with vim keybindings, live reload, KaTeX math and GitHub-flavored callouts. Opens a chromeless browser window (no Electron), and works natively from WSL. |
+| [**mdview**](https://github.com/GalacticQuasar/mdview) | Terminal-launched Markdown viewer with vim keybindings, live reload, KaTeX math and GitHub-flavored callouts. Opens a chromeless browser window (no Electron), works natively from WSL, takes pipes (`mdview -`), and has a Claude Code plugin (`/mdview`) that opens Claude's last response in a window. `npm install -g @galacticquasar/mdview` · [npm](https://www.npmjs.com/package/@galacticquasar/mdview) |
 | [**ed-discussion-agent**](https://github.com/GalacticQuasar/ed-discussion-agent) | Agent tooling for Ed Discussion. A read-only MCP server lets Claude Code, Codex, Cursor, and other MCP clients search and read your courses, and an experimental listener pushes notifications to your phone (like "tell me if any CS 180 deadline changes"), judged by a local System One decision model. On [PyPI](https://pypi.org/project/ed-discussion-mcp/): run it with `uvx ed-discussion-mcp`, or install it in one click as a Claude Desktop extension. |
 | [**claude-study-skills**](https://github.com/GalacticQuasar/claude-study-skills) | Claude Code plugin with three skills: ingest a course's slides and transcripts, generate printable exam reference sheets with parallel subagents, and build study guides that teach a topic. |
 | [**dining-bot**](https://github.com/GalacticQuasar/dining-bot) | CLI, TUI and agent skill for Purdue's dining menus. `npx skills add GalacticQuasar/dining-bot`, then ask "What are some good vegetarian options for dinner tonight?" |
@@ -44,6 +44,7 @@ Small things I built and use pretty much every day.
 <summary><b>More experiments</b></summary>
 
 - [**tombstone-agent**](https://github.com/GalacticQuasar/tombstone-agent): a controlled benchmark of an agent that prunes its own tool results behind summary "tombstones", measuring accuracy and cost against keeping everything, truncation and auto-compaction
+- [**monodrift**](https://github.com/GalacticQuasar/monodrift): a minimal top-down pixel-art drift game for desktop and mobile, with a seeded daily road and online leaderboard, multiplayer rooms for up to 4, and offline play as a PWA. [Play](https://monodrift.galacticquasar.dev)
 - [**ai-research-assistant**](https://github.com/GalacticQuasar/ai-research-assistant): search arXiv, keep a local paper library, get structured summaries and chat with each paper
 - [**system-one-testing**](https://github.com/GalacticQuasar/system-one-testing): experiments with a tiny local 0.8B model via Ollama: support-ticket triage, a dino runner, a rule-changing arcade game and a car game
 - [**face-clustering**](https://github.com/GalacticQuasar/face-clustering): cluster faces in a photo collection by person using DeepFace/FaceNet embeddings and DBSCAN
